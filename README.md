@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
 
-To use this template click `Use this template`
 
-### Available Scripts
+[DEMO LINK](https://ksenia-didukh.github.io/todo-app-react/)
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+With a user-friendly interface, you can create a to-do list, check completed cases, filter cases by execution status, delete and edit cases, and keep track of which cases are still active.
